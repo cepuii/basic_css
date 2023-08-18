@@ -1,0 +1,93 @@
+ul,
+li,
+ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+p {
+    font-weight: 300;
+    margin: 0;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+h1 {
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 100px;
+    line-height: 85px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.titlepage {
+    padding-bottom: 20px;
+    text-align: right;
+}
+
+.more_button {
+    background-color: #000;
+    padding: 9px 0;
+    width: 100%;
+    max-width: 171px;
+    border: #000 solid 1px;
+    border-radius: 30px;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+}
+
+.more_button:hover {
+    background-color: #0ed1f0;
+    border: #0ed1f0 solid 1px;
+    color: #fff;
+}
+
+.about_box a {
+    width: 100%;
+    max-width: 171px;
+    padding: 9px 0;
+    border: #000 1px;
+    border-radius: 30px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+.Gallery_text p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: right;
+    color: #181716;
+}
+
+.copyright a {
+    color: #fff;
+}
+
+.copyright a:hover {
+    color: #0fb0d3;
+}
+
+.copyright p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+
+
+.submit:hover {
+    background: #ddd;
+    border: #ddd solid 1px;
+    color: #0fb0d3;
+}
+
+#gallery {
+    background-color: #ececec;
+    padding: 110px 0;
+}
